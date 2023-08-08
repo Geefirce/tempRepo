@@ -1,0 +1,14 @@
+{
+  "name": "tutorial-for-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "godspower",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
